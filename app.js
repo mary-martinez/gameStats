@@ -75,7 +75,7 @@ save.addEventListener('click', () => {
     const gameData = {
         number: numOfGames,
         totalPoints: sum
-    }
+    };
 
     games.push(gameData);
 
